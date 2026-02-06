@@ -24,7 +24,8 @@ MySQL
 Maven
 Postman (for API testing)
 
-📂 Project Structure
+📂 Project Structure:
+
 employeeManagement
 │
 ├── controller
