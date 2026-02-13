@@ -110,7 +110,7 @@ Multiple tables created → Hibernate default table naming behavior
 📌 Future Enhancements:
 
 Add validation using @Valid
-Use ResponseEntity for better HTTP responses
+Use ResponseEntity for better HTTP responsess
 Add global exception handling
 Integrate Swagger/OpenAPI
 Add authentication & authorization
