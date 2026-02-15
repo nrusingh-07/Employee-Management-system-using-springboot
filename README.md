@@ -51,7 +51,7 @@ name
 salary
 gender
 
-⚙️ Configuration (application.properties):
+⚙️ Configuration (application.properties)
 
 spring.application.name=employeeManagement
 server.port=9090
